@@ -139,11 +139,10 @@ button { cursor: pointer; font-family: inherit; }
   border-left: 2px solid transparent;
   transition: color var(--t-fast), background var(--t-fast);
 }
-.sidebar__link:hover { color: var(--black); background: var(--sand); }
+.sidebar__link:hover { color: var(--black); }
 .sidebar__link[aria-current="page"] {
   color: var(--black);
   font-weight: 600;
-  background: var(--sand);
   border-left-color: var(--primary);
 }
 .sidebar__dot {
@@ -184,7 +183,7 @@ button { cursor: pointer; font-family: inherit; }
 .pill-draft {
   font-size: 0.64rem; font-weight: 700; letter-spacing: 0.1em;
   text-transform: uppercase;
-  background: var(--sand); color: var(--gray-dark);
+  background: var(--white); color: var(--gray-dark);
   border: 1px solid var(--rule-mid);
   padding: 0.18rem 0.5rem; border-radius: 999px;
 }
@@ -216,7 +215,7 @@ button { cursor: pointer; font-family: inherit; }
 .doc code {
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
   font-size: 0.86em;
-  background: var(--sand);
+  background: rgba(0, 0, 0, 0.05);
   padding: 0.12em 0.38em; border-radius: 4px;
 }
 .doc table {
@@ -227,7 +226,7 @@ button { cursor: pointer; font-family: inherit; }
   text-align: left; padding: 0.6rem 0.8rem;
   border-bottom: 1px solid var(--rule);
 }
-.doc th { font-weight: 600; background: var(--sand); }
+.doc th { font-weight: 600; }
 
 /* GFM task lists (the going-live checklist) */
 .doc input[type="checkbox"] {
@@ -263,7 +262,7 @@ button { cursor: pointer; font-family: inherit; }
 .doc blockquote p:last-child { margin-bottom: 0; }
 .doc .callout--watch {
   border-left: 3px solid var(--primary);
-  background: var(--sand);
+  background: rgba(198, 255, 0, 0.08);
   padding: 1rem 1.2rem;
   border-radius: 0 10px 10px 0;
   color: var(--black);
