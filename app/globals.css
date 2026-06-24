@@ -376,19 +376,15 @@ button { cursor: pointer; font-family: inherit; }
   }
   .guidenav__summary {
     display: flex; align-items: center; justify-content: space-between;
-    list-style: none; cursor: pointer;
-    padding: 1.05rem 0; font-size: 0.95rem; font-weight: 600;
+    width: 100%; background: none; border: 0; text-align: left; cursor: pointer;
+    padding: 1.05rem 0; font: inherit; font-size: 0.95rem; font-weight: 600;
     color: var(--black);
   }
-  .guidenav__summary::-webkit-details-marker { display: none; }
   .guidenav__chev { color: var(--gray-dark); transition: transform var(--t-fast); flex: none; }
-  .guidenav[open] .guidenav__chev { transform: rotate(180deg); }
+  .guidenav__summary[aria-expanded="true"] .guidenav__chev { transform: rotate(180deg); }
 
-  .guidenav:not([open]) .sidebar { display: none; }
-  .sidebar {
-    padding: 0.25rem 0 1.4rem;
-    columns: 2; column-gap: 1.5rem;
-  }
+  .sidebar { display: none; padding: 0.25rem 0 1.4rem; }
+  .sidebar[data-open="true"] { display: block; columns: 2; column-gap: 1.5rem; }
   .sidebar__group { margin-bottom: 1.1rem; break-inside: avoid; }
   .sidebar__link { margin-left: 0; padding-left: 0; } /* drop desktop bleed so text never clips */
 
