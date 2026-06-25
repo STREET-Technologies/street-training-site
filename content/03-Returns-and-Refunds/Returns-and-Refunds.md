@@ -13,7 +13,7 @@ updated: 2026-06-24
 
 When you refund a STREET order in Shopify, the standard flow refunds the **items only**. That is the right outcome.
 
-There is a separate "Refund shipping" checkbox. It is **off by default**. If you tick it, the delivery fee comes out of **your own pocket**, not the customer's. Most of the time you should leave it alone.
+There is a separate "Refund shipping" checkbox. It is **off by default**. If you tick it, the delivery fee comes out of **your own pocket**, not the customer's. In most cases there is no reason to touch it.
 
 ## Your two valid choices on every return
 
@@ -27,7 +27,7 @@ Every return comes down to one decision:
 1. Open the order in your Shopify admin.
 2. Choose **Return items** and select what is coming back.
 3. Choose **Process return**, which opens the refund window.
-4. In that window, the **Refund shipping** checkbox is **unticked**. Leave it that way.
+4. In that window, the **Refund shipping** checkbox is **unticked**, which is the outcome you want.
 5. Confirm the refund. The customer gets the item price back. The delivery fee is not touched.
 
 That is the whole job. You do not need to do anything else.
@@ -38,7 +38,7 @@ After a partial refund, the order page may show a banner like **"You owe custome
 
 This is **cosmetic**. It is Shopify showing you the delivery fee it did not refund. No money is actually owed and nothing is stuck. You can leave it. The return is already complete.
 
-> Watch out: do not tick "Refund shipping" to make this banner go away. That is the one move that turns a harmless message into real money leaving your account. The banner means nothing. Ignore it and carry on.
+> Watch out: there is no need to tick "Refund shipping" to clear this banner. That is the one action that turns a harmless message into real money leaving your account, so it is best left alone unless you genuinely mean to refund the delivery. The banner itself can simply be ignored.
 
 ## Why the delivery fee is not yours to give back
 

@@ -1,28 +1,31 @@
 ---
-title: Dos and don'ts
+title: Getting the best from STREET
 order: 1
 audience: retailer
-updated: 2026-06-24
+updated: 2026-06-25
 status: draft
 ---
 
-# Dos and don'ts
+# Getting the best from STREET
 
-**In short:** The handful of habits that keep your STREET customers happy and your account healthy. Framed as cause and effect, not rules.
+**In short:** A few things that make STREET run smoothly for you and your customers. Little of this is new if you already sell online. It mostly comes back to the one thing STREET changes: speed.
 
-## Do
+## Speed is the difference
 
-- **Accept orders fast.** Speed is the whole promise. Quick acceptance keeps the delivery on time.
-- **Keep stock accurate.** A customer who orders something you cannot supply is a refund and a bad memory.
-- **Use good images.** They are the difference between a browse and a sale.
-- **Flag delays early.** If something will be late, say so. Customers forgive honesty, not silence.
-- **Process returns promptly.** A quick, clean refund keeps a customer for next time.
+You already know how to pack an order and hand it to a courier. STREET changes one thing: the customer is expecting it the same day, often within an hour or two of ordering, depending on the courier. Everything below comes back to that.
 
-## Don't
+## What tends to work well
 
-- **Don't leave orders sitting.** A missed acceptance window means the order can go elsewhere.
-- **Don't let stock drift.** Out-of-stock orders are the most avoidable bad experience.
-- **Don't tick "Refund shipping" to clear a warning.** That costs you the delivery fee for nothing. See [[Returns-and-Refunds]].
-- **Don't go quiet on a customer.** Slow or no responses are what turn a small issue into a complaint.
+- Picking up new orders quickly. The sooner you accept, the sooner a rider can be on the way.
+- Keeping stock accurate, so a same-day order is one you can actually fulfil.
+- Clear photos and descriptions, since customers are deciding quickly.
+- A quick word to the customer if something is going to be delayed. People are forgiving when they are kept in the loop.
 
-> Watch out: Draft. The commercial team owns the tone and the customer-service expectations here. Confirm before publishing.
+## Where retailers sometimes get caught out
+
+- Orders left past the acceptance window. A missed order is cancelled, not passed on, so it is a sale lost outright.
+- Stock that has drifted out of date, leading to a same-day order that cannot be completed.
+- Going quiet when there is a hitch, which is what tends to turn a small issue into a complaint.
+- Refunding the delivery fee on a return without realising it comes out of your own pocket (see [[Returns-and-Refunds]]).
+
+> Worth knowing: none of these are rules. They are simply the handful of things that, on a same-day service, tend to separate a smooth order from a frustrated customer.
