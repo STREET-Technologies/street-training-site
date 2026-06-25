@@ -3,7 +3,6 @@ title: Packing and collection
 order: 3
 audience: retailer
 updated: 2026-06-25
-status: draft
 ---
 
 # Packing and collection
