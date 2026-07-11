@@ -2,7 +2,7 @@
 title: Reading your invoice
 order: 2
 audience: retailer
-updated: 2026-06-25
+updated: 2026-07-11
 status: draft
 ---
 
@@ -12,8 +12,8 @@ status: draft
 
 ## What the lines mean
 
-- **Commission** — STREET's agreed share of a STREET sale.
-- **Delivery** — the rider cost for a STREET order, the same fee explained in [[How-Billing-Works]].
+- **Commission**: STREET's agreed share of a STREET sale.
+- **Delivery**: the rider cost for a STREET order, the same fee explained in [[How-Billing-Works]].
 
 Both sit in Shopify billing next to your usual Shopify charges.
 
