@@ -35,4 +35,8 @@ The first time you open the app it asks to send notifications. Allow it. If they
 
 A new order plays a chime that repeats every few seconds until someone answers it. It stops the moment you accept or decline. If you hear it, the customer is waiting, so it helps to get to it quickly (see [[Accepting-Orders]]).
 
+## More than one person answering orders
+
+Staff can have their own logins rather than sharing yours. Ask us (see [[Get-Help]]) and we set a staff account up on the spot; it works immediately and the staff member gets an email to set their own password. Everyone at the same location sees the same incoming orders, and the moment one person accepts an order it clears from every other device, so there is no risk of two people packing the same thing.
+
 > Worth knowing: your phone still works as a second device. Log in on it for when you step away from the counter, but treat it as the backup, not the alarm.
