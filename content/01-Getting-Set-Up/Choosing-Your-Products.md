@@ -1,6 +1,6 @@
 ---
 title: Choosing your products
-order: 3
+order: 4
 audience: retailer
 updated: 2026-06-25
 ---

@@ -2,7 +2,7 @@
 title: Going-live checklist
 order: 2
 audience: retailer
-updated: 2026-06-24
+updated: 2026-07-16
 ---
 
 # Going-live checklist
@@ -16,7 +16,7 @@ updated: 2026-06-24
 - [ ] Products chosen for STREET in your Shopify admin (see [[Choosing-Your-Products]]).
 - [ ] Stock levels accurate in Shopify.
 - [ ] Operating hours match when you can actually pack and hand over orders.
-- [ ] You can log in to the STREET Partner app on the device you will use day to day.
+- [ ] The STREET Partner app is set up on a counter tablet, plugged in and logged in, with notifications on (see [[Setting-Up-Your-Counter-Tablet]]).
 - [ ] Your locations are set up if you run more than one shop (see [[Your-Locations]]).
 
 ## Worth doing early

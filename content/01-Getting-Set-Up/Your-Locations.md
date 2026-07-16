@@ -1,6 +1,6 @@
 ---
 title: Your locations
-order: 4
+order: 5
 audience: retailer
 updated: 2026-06-25
 ---

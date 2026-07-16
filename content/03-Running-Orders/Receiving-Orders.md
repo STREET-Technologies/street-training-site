@@ -2,7 +2,7 @@
 title: Receiving orders
 order: 1
 audience: retailer
-updated: 2026-06-25
+updated: 2026-07-16
 ---
 
 # Receiving orders
@@ -19,4 +19,4 @@ updated: 2026-06-25
 
 A new order shows what the customer bought, so you can see at a glance what to pick. From there it is accept, pack, mark ready, and a rider collects (see [[Accepting-Orders]] and [[Packing-and-Collection]]).
 
-> Worth knowing: it helps to keep the Partner app to hand and notifications on during your hours, since a new order is waiting on you to accept it.
+> Worth knowing: the app does its best alerting on an always-on tablet by the till, with notifications on (see [[Setting-Up-Your-Counter-Tablet]]). A new order is waiting on you to accept it.
