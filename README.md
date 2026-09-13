@@ -29,7 +29,7 @@ Content is authored in the Obsidian vault, not here.
 
 ```bash
 npm run sync       # copies the numbered sections from the vault into content/
-git add -A && git commit -m "content: sync" && git push   # Vercel rebuilds
+git diff -- content/  # review the synced changes before committing
 ```
 
 `npm run sync` reads from `/Users/gunnar/VAULTS/STREET-Training` by default; override with
@@ -39,13 +39,19 @@ the `TRAINING_VAULT` env var.
 
 Import this repo in Vercel. It is a standard Next.js app, no special config.
 
-Because this is unreleased material under review, the app sends `noindex` headers. For the
-review link, also turn on Vercel **Deployment Protection** (password) in project settings
-so only reviewers can open it.
+The app sends `noindex` headers, which do not restrict access. The current free-plan
+setup uses a public repo and does not provide password protection. Do not place private
+operational material in the numbered retailer sections. `_Internal/` remains excluded.
 
-## Status
+A push to `main` triggers a Vercel deployment. Complete content review before publishing.
+The vendor portal also renders this vault under `/guide`; keep both content copies aligned.
 
-Returns (`03-Returns-and-Refunds`) is fully written. Most other pages are drafts (shown with
-a "Draft" pill) pending commercial-team tone review and two facts to confirm: the order
-status stage names, and billing/commission specifics. The acceptance window is deliberately
-not stated to retailers.
+## Content review
+
+All 24 retailer pages were revised in September 2026. The eight-section structure is
+unchanged; returns remains in `04-Returns-and-Refunds`.
+
+Pages with `status: draft` remain visible with a Draft pill. The flag is not an access or
+publication gate. Commercial returns/billing decisions and support arrangements are tracked
+in the source vault's `_Internal/Known-Gotchas.md`. The acceptance-window duration remains
+excluded from retailer copy.
